@@ -1,0 +1,23 @@
+{
+  "name": "allons-y.io",
+  "version": "1.0.1",
+  "description": "Official Allons-y website.",
+  "license": "MIT",
+  "homepage": "http://allons-y.io",
+  "author": "CodeCorico <hello@codecorico.com>",
+  "bugs": "https://github.com/CodeCorico/allons-y.io/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodeCorico/allons-y.io.git"
+  },
+  "engines": {
+    "node": ">=4.1",
+    "npm": ">=3.2"
+  },
+  "dependencies": {
+    "allons-y-wiki": "^1.0.0",
+    "allons-y-web-logs": "^1.0.0",
+    "allons-y-web-metrics": "^1.0.0",
+    "allons-y-notifire": "^1.0.0"
+  }
+}
