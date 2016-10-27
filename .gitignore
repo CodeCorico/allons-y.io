@@ -1,3 +1,6 @@
+/public/*
+/media/*
+npm-debug.log*
 /logs/*
 *.log
 *.node_modules
@@ -10,3 +13,4 @@ coverage
 Thumbs.db
 .idea/*
 *.orig
+.env
