@@ -20,5 +20,9 @@
     "allons-y-web-logs": "^1.0.0",
     "allons-y-web-metrics": "^1.0.0",
     "allons-y-wiki": "^1.0.1"
+  },
+  "scripts": {
+    "start": "node ./node_modules/allons-y/start.js",
+    "stop": "node ./node_modules/allons-y/stop.js"
   }
 }
